@@ -1,4 +1,6 @@
-+# tugas
+# tugas repository osjur
+> biodata
+Nama : Firja Al Ghifari
 NIM  : 24106050003
 Ttl  : Cilegon, 18 Oktober 2005
 Hobi : Bouldering
