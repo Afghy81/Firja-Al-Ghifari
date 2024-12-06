@@ -1,4 +1,4 @@
-# tugas repository osjur
+
 >biodata
 1. Nama : Firja Al Ghifari
 2. NIM  : 24106050003
